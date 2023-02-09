@@ -2,12 +2,12 @@
 
 ## Objetivo do projeto
 
-Desenvolver minhas habilidades no desenvolvimento de API'S
-desenvolver minhas habilidades em Sequelize, React e Banco de dados
-Criar um app de delivery que tenha interação entre cliente e vendedor com atualização em tempo real do pedido 
-Desenvolver um sistema de login e registro com validação de usuário de forma que consiga ficar salvo no local storage 
+- Desenvolver um carrinho de compras consumindo dados diretamente de uma API do Mercado Livre através de requisições https para buscar produtos à venda.
+- Fazer requisições a uma API do Mercado Livre;
+- Utilizar os seus conhecimentos sobre JavaScript, CSS e HTML;
+- Trabalhar com funções assíncronas;
 
 ## Tecnologias
 - Javascript
-- HTML5 
+- HTML
 - CSS
